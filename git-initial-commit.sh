@@ -10,4 +10,5 @@ git commit -m "Initial commit"
 printf $'Setting local repository origin to be pushed to $URL...'
 git remote add origin $URL
 printf "Pusing local commits to remote master..."
-git push origin master
+git pull origin master
+git push origin master -f
