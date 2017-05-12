@@ -15,3 +15,6 @@ You will notice the tests fail. In keeping with this section's emphasis on autom
 Once the tests succeed, npm run watch will terminate and print a "secret code" consisting of a short phrase: `the mean stack awakens` 
 Copy this code into the assessment page in your browser to complete this assessment.
 
+## Chapter 2
+
+Ongoing...
