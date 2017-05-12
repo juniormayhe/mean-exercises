@@ -1,0 +1,30 @@
+{
+  "name": "mean-exercises",
+  "version": "1.0.0",
+  "description": "Some exercises with MEAN stack",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/juniormayhe/mean-exercises.git"
+  },
+  "keywords": [
+    "mean",
+    "mean-stack"
+  ],
+  "author": "Wanderley Mayhe Junior <juniormayhe@gmail.com>",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/juniormayhe/mean-exercises/issues"
+  },
+  "homepage": "https://github.com/juniormayhe/mean-exercises#readme",
+  "dependencies": {
+    "gulp": "^3.9.1",
+    "gulp-mocha": "^4.3.1",
+    "mocha": "^3.3.0",
+    "mongodb": "^2.2.26",
+    "mongoose": "^4.9.8"
+  }
+}
