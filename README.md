@@ -1,3 +1,4 @@
+![](https://raw.githubusercontent.com/juniormayhe/mean-exercises/master/logo.png)
 # MEAN Exercises
 Exercises with MongoDB, Express, Angular.JS and Node.JS provided by <i>MongoDBx: M101x Introduction to MongoDB using the MEAN Stack</i>
 
